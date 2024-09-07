@@ -1,1 +1,1 @@
-Crear una clase "Cancion" en Java que represente una canción. Examane primer momento. Moviles1
+Crear una clase "Cancion" en Java que represente una canción. Examen primer momento. Moviles1
